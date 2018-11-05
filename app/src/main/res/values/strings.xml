@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Android Architecture Components</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hint_word">Nome do usuário...</string>
+    <string name="button_save">Salvar</string>
+    <string name="empty_not_saved">Usuário não foi salvo, pois o campo está vazio.</string>
+</resources>
